@@ -1,0 +1,1 @@
+- Pour se connecter utiliser l'adresse admin@admin.admin et le mdp admin.
