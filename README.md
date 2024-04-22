@@ -1,1 +1,2 @@
-- Pour se connecter utiliser l'adresse admin@admin.admin et le mdp admin.
+- Pour se connecter utiliser l'adresse "admin@admin.admin" et le mdp "admin".
+- Mon mcd est présent dans le dossier annexe.
